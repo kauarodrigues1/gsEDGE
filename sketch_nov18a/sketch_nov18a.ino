@@ -118,11 +118,11 @@ void loop() {
     }
 
     // Liga ou desliga o LED no horário programado
-    if (adjustedTime.hour() == 16 && adjustedTime.minute() == 11 && adjustedTime.second() == 0) {
+    if (adjustedTime.hour() == 17 && adjustedTime.minute() == 57 && adjustedTime.second() == 0) {
         digitalWrite(ledGreen2, HIGH);
         alertMessage = "Lampada ligada";
         alertMessage2 = ":D";
-    } else if (adjustedTime.hour() == 16 && adjustedTime.minute() == 12 && adjustedTime.second() == 0) {
+    } else if (adjustedTime.hour() == 17 && adjustedTime.minute() == 57 && adjustedTime.second() == 30) {
         digitalWrite(ledGreen2, LOW);
         alertMessage = "Lampada desligada";
         alertMessage2 = ":D";
