@@ -6,7 +6,10 @@ O projeto **gsEDGE** foi desenvolvido para criar um sistema de economia de energ
 ### **Integrantes:**
 - Kauã Rodrigues
 - Felipe Santos 
-- Gustavo Naoto 
+- Gustavo Naoto
+
+### **Youtube:**
+- https://youtu.be/39L5GXGgg5Y?si=i5EBcjDTgOP_ImuB
 
 ### **Repositorio github**
 - https://github.com/kauarodrigues1/gsEDGE
