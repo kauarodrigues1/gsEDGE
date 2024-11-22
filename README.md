@@ -4,13 +4,13 @@
 O projeto **gsEDGE** foi desenvolvido para criar um sistema de economia de energia eficiente, ideal para ambientes com baixo fluxo de pessoas, como garagens. O sistema utiliza sensores para detectar movimento e distância, acendendo a iluminação apenas quando necessário, e também permite programar horários para ligar e apagar outra lâmpada, otimizando o consumo energético.  
 
 ### **Integrantes:**
--Kauã Rodrigues
--Felipe Santos 
--Gustavo Naoto 
+- Kauã Rodrigues
+- Felipe Santos 
+- Gustavo Naoto 
 
 ### **Repositorio github**
 - https://github.com/kauarodrigues1/gsEDGE
-- 
+
 ### **Simulador no wokwi**
 - https://wokwi.com/projects/415188382719653889
 
